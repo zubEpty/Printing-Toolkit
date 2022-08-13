@@ -1,6 +1,6 @@
 # A Printing Toolkit For Unity
 
-An in-depth paragraph about your project and overview of use.
+A useful tool made with unity for printing any type of files onto your game. Any printer devices will work. 
 
 ## Getting Started
 
